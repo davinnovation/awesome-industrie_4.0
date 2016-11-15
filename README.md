@@ -16,6 +16,12 @@ Paper will described with MLA format
 
 
 - Smart Supply Chain
+  | title                                    | Contents                                 |
+  | ---------------------------------------- | ---------------------------------------- |
+  | Yuvaraj, S., and M. Sangeetha. "Smart supply chain management using internet of things (IoT) and low power wireless communication systems." Wireless Communications, Signal Processing and Networking (WiSPNET), International Conference on. IEEE, 2016. [전체그] | 1. SCM is design, planning, execution, control and monitoring of goods. Smart SCM provide a full range of search service for the customers through internet and can visualize the whole process of mobile commerce |
+  | Lukić, Jelena, et al. "Supply chain intelligence for electricity markets: A smart grid perspective." Information Systems Frontiers (2015): 1-17. [전체 그림] | 1. These supply chain intelligence systems are expected to unify business processes, KPIs, data warehouse and business intelligence through a specialized web portal 2. The goal of a supply chain intelligence model for smart grids is to provide the main capabilities required for a successful supply chain management including the planning, monitoring, analyzing and prediction of states and events(Stefanović et al. 2011) |
+
+
   - Smart Factory
 
     | title                                    | Contents                                 |
