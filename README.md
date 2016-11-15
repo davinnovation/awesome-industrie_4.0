@@ -4,28 +4,24 @@ List of industrie 4.0, smart supply chain, smart factory etc... - paper, article
 
 What is industry 4.0 [ Industrie 4.0, fourth industrial revolution ]?
 
-Paper will described in MLA
+Paper will described with MLA format
 
 ## Table of Contents
 
 - Baseline of industry 4.0
-  | Title (MLA) | Hermann, Mario, Tobias Pentek, and Boris Otto. "Design Principles for Industrie 4.0 Scenarios." *2016 49th Hawaii International Conference on System Sciences (HICSS)*. IEEE, 2016. |
-  | ----------- | ---------------------------------------- |
-  | Contents    | 1. Internet of Everything(IOT) into the industrial value chain is next industrial revolution. 2. Industrie 4.0 = Technical Assistance(Virtual Assistance, Physical Assistance) + Interconnection(Collaboration, Standards, Security) + Information Transparency(Data Analytics, Information Provision) + Decentralized Decisions |
 
+  | title                                    | Contents                                 |
+  | ---------------------------------------- | ---------------------------------------- |
+  | Hermann, Mario, Tobias Pentek, and Boris Otto. "Design Principles for Industrie 4.0 Scenarios." *2016 49th Hawaii International Conference on System Sciences (HICSS)*. IEEE, 2016. | 1. Internet of Everything(IOT) into the industrial value chain is next industrial revolution. 2. Industrie 4.0 = Technical Assistance(Virtual Assistance, Physical Assistance) + Interconnection(Collaboration, Standards, Security) + Information Transparency(Data Analytics, Information Provision) + Decentralized Decisions |
 
-
-- Smart Supply Chain
-  - smart factory
+- Smart Supply Chian
+  - Smart Factory
 
     - Davis, Jim, et al. "Smart manufacturing, manufacturing intelligence and demand-dynamic performance." *Computers & Chemical Engineering* 47 (2012): 145-156.
 
-      ​	=> 
-- ​
 
 
-
-Contribution Guide
+##Contribution Guide
 
 1. Sign Up github
 2. Fork this repo
