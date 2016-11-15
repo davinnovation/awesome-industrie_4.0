@@ -16,6 +16,7 @@ Paper will described with MLA format
 
 
 - Smart Supply Chain
+
   | title                                    | Contents                                 |
   | ---------------------------------------- | ---------------------------------------- |
   | Yuvaraj, S., and M. Sangeetha. "Smart supply chain management using internet of things (IoT) and low power wireless communication systems." Wireless Communications, Signal Processing and Networking (WiSPNET), International Conference on. IEEE, 2016. [전체그] | 1. SCM is design, planning, execution, control and monitoring of goods. Smart SCM provide a full range of search service for the customers through internet and can visualize the whole process of mobile commerce |
