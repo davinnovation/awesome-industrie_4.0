@@ -16,6 +16,7 @@ Paper will described with MLA format
 
 - Smart Supply Chain
   - Smart Factory
+  
     | title | Contents |
     | ----- | ----- |
     | Davis, Jim, et al. "Smart manufacturing, manufacturing intelligence and demand-dynamic performance." *Computers & Chemical Engineering* 47 (2012): 145-156. | blabla |
