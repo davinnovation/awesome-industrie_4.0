@@ -14,11 +14,11 @@ Paper will described with MLA format
   | ---------------------------------------- | ---------------------------------------- |
   | Hermann, Mario, Tobias Pentek, and Boris Otto. "Design Principles for Industrie 4.0 Scenarios." *2016 49th Hawaii International Conference on System Sciences (HICSS)*. IEEE, 2016. | 1. Internet of Everything(IOT) into the industrial value chain is next industrial revolution. 2. Industrie 4.0 = Technical Assistance(Virtual Assistance, Physical Assistance) + Interconnection(Collaboration, Standards, Security) + Information Transparency(Data Analytics, Information Provision) + Decentralized Decisions |
 
-- Smart Supply Chian
+- Smart Supply Chain
   - Smart Factory
-
-    - Davis, Jim, et al. "Smart manufacturing, manufacturing intelligence and demand-dynamic performance." *Computers & Chemical Engineering* 47 (2012): 145-156.
-
+    | title | Contents |
+    | ----- | ----- |
+    | Davis, Jim, et al. "Smart manufacturing, manufacturing intelligence and demand-dynamic performance." *Computers & Chemical Engineering* 47 (2012): 145-156. | blabla |
 
 
 ##Contribution Guide
