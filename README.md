@@ -17,8 +17,8 @@ Paper will described with MLA format
 
 - Smart Supply Chain
 
-  | title                                    | Contents |
-  | ---------------------------------------- | -------- |
+  | title                                    | Contents                                 |
+  | ---------------------------------------- | ---------------------------------------- |
   | Ivanov, Dmitry, and Boris Sokolov. "Structure dynamics control approach to supply chain planning and adaptation." International Journal of Production Research 50.21 (2012): 6133-6149 | 1. The dynamics of SC execution creates new business opportunities but also new risks and uncertainty [1.5 Collabo] 2. A crucial topic is the impact of uncertainty and disruption [1. Flexibility ] 3. So the representation of SCs as complex multi-structural dynamic systems can be favourable both for the identifying structures and corresponding models and for the identification of different structural relations from static and dynamic points of view [1.4 Manufacturing Share] 4. How shall these services be schedueld at the planning stage and rescheduled(adapted) in dynamics at the execution control stage? [1.3 Manufacturing Line] 5. Control schemes for the real-time adaptation of an autonomy level are needed [1.4 Manufacturing Share + 1.3 Manufacturing Line ] |
 
   - Smart Factory
