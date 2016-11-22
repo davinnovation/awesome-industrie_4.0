@@ -16,6 +16,11 @@ Paper will described with MLA format
 
 
 - Smart Supply Chain
+
+  | title                                    | Contents |
+  | ---------------------------------------- | -------- |
+  | Ivanov, Dmitry, and Boris Sokolov. "Structure dynamics control approach to supply chain planning and adaptation." International Journal of Production Research 50.21 (2012): 6133-6149 | 1. The dynamics of SC execution creates new business opportunities but also new risks and uncertainty [1.5 Collabo] 2. A crucial topic is the impact of uncertainty and disruption [1. Flexibility ] 3. So the representation of SCs as complex multi-structural dynamic systems can be favourable both for the identifying structures and corresponding models and for the identification of different structural relations from static and dynamic points of view [1.4 Manufacturing Share] 4. How shall these services be schedueld at the planning stage and rescheduled(adapted) in dynamics at the execution control stage? [1.3 Manufacturing Line] 5. Control schemes for the real-time adaptation of an autonomy level are needed [1.4 Manufacturing Share + 1.3 Manufacturing Line ] |
+
   - Smart Factory
 
     | title                                    | Contents                                 |
@@ -26,12 +31,12 @@ Paper will described with MLA format
     | Wang, Shiyong, et al. "Towards smart factory for industry 4.0: a self-organized multi-agent system with big data based feedback and coordination." Computer Networks 101 (2016): 158-168. [설비 공유 유연] | 1. Smart Factory = Physical Resource + industrial network layer + cloud layer + supervisiory control terminal layer 2. Overall negotiation process among agents |
 
   - Cyber Physical System
-    
-    | title                                    | contents |
-    | ---------------------------------------- | -------- |
+
+    | title                                    | contents                                 |
+    | ---------------------------------------- | ---------------------------------------- |
     | Lee, Edward A. "Cyber physical systems: Design challenges." 2008 11th IEEE International Symposium on Object and Component-Oriented Real-Time Distributed Computing (ISORC). IEEE, 2008. | 1. CPS = Embedded computer + networks monitor + control the physical processes 2. CPS is abstraction. But always errors can't fully control. This is design issue. => deliver precision timing |
 
-##Contribution Guide
+## Contribution Guide
 
 1. Sign Up github
 2. Fork this repo
@@ -39,3 +44,12 @@ Paper will described with MLA format
 4. Make a pull request
 5. Thank you very much
 
+## Ref
+
+### 1. Connected Smart Factory Specification
+
+1. Flexibility of Product Design
+2. Flexibility of Manufacturing Machine
+3. Flexibility of Manufacturing Line
+4. Flexibility of Manufacturing Share
+5. Flexibility of Collaboration
